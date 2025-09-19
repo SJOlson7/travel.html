@@ -1,15 +1,7 @@
-# Project Title
+# Tucson
 
-A brief description of your project.
+A page about Tucson, AZ.
 
-## Installation
+## Contributions
 
-Instructions for installing the project.
-
-## Usage
-
-Instructions for using the project.
-
-## Contributing
-
-Instructions for contributing to the project.
+Open to all to add info
