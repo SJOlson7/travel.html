@@ -1,1 +1,6 @@
-secrets.txt
+
+#specific files
+#secrets.txt
+
+#Ignore folders of type
+*.txt
